@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1190.6 841.9" enable-background="new 0 0 1190.6 841.9" xml:space="preserve">
+<g id="Layer_1_1_">
+</g>
+<g id="guides">
+	<g>
+		<g display="none">
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="398.6" y1="486.29" x2="398.6" y2="594.29" gradientTransform="matrix(1.3756 0 0 -1.3756 50.5226 1158.1353)">
+				<stop  offset="0" style="stop-color:#670A19"/>
+				<stop  offset="5.147576e-02" style="stop-color:#711020"/>
+				<stop  offset="0.1564" style="stop-color:#831729"/>
+				<stop  offset="0.2764" style="stop-color:#921C30"/>
+				<stop  offset="0.4187" style="stop-color:#9D2035"/>
+				<stop  offset="0.6048" style="stop-color:#A32237"/>
+				<stop  offset="1" style="stop-color:#A52238"/>
+			</linearGradient>
+			<path display="inline" fill="url(#SVGID_1_)" d="M673.1,474.3c0,8.1-6.7,14.9-14.9,14.9H539.4c-8.1,0-14.9-6.7-14.9-14.9V355.5
+				c0-8.1,6.7-14.9,14.9-14.9h118.9c8.1,0,14.9,6.7,14.9,14.9V474.3z"/>
+		</g>
+		<g>
+			<rect x="594.9" y="453.8" fill="#FFFFFF" width="24.6" height="17.7"/>
+			<rect x="629.8" y="453.8" fill="#FFFFFF" width="24.6" height="17.7"/>
+			<g>
+				<rect x="543.1" y="403.3" fill="#FFFFFF" width="24.6" height="17.7"/>
+				<rect x="612.5" y="403.3" fill="#FFFFFF" width="24.6" height="17.7"/>
+				<polygon fill="#FFFFFF" points="626.4,434 623.6,434 623.6,390.4 556.8,390.4 556.8,404.7 554,404.7 554,387.7 626.4,387.7 				
+					"/>
+			</g>
+			<g>
+				<rect x="577.8" y="358.4" fill="#FFFFFF" width="24.6" height="17.7"/>
+				<rect x="588.8" y="376.1" fill="#FFFFFF" width="2.8" height="11.7"/>
+			</g>
+			<polygon fill="#FFFFFF" points="608.9,457.7 606.1,457.7 606.1,432.8 644.2,432.8 644.2,457.8 641.5,457.8 641.5,435.5 
+				608.9,435.5 			"/>
+			<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="564.3" y1="470.2" x2="590.2" y2="470.2"/>
+			<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="556.1" y1="462.8" x2="590.2" y2="462.8"/>
+			<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="543.6" y1="455.3" x2="590.2" y2="455.3"/>
+		</g>
+	</g>
+</g>
+</svg>
