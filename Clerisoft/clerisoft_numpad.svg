@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="120px" height="120px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 120 120"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#B95255}
+    .fil0 {fill:#CF5C60}
+    .fil2 {fill:#FAFAFA}
+    .fil3 {fill:#FF9297}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_184141664">
+   <path id="_184136624" class="fil0" d="M11.8346 0l96.3307 0c6.50906,0 11.8346,5.32559 11.8346,11.8346l0 96.3307c0,6.50906 -5.32559,11.8346 -11.8346,11.8346l-96.3307 0c-6.50906,0 -11.8346,-5.32559 -11.8346,-11.8346l0 -96.3307c0,-6.50906 5.32559,-11.8346 11.8346,-11.8346z"/>
+   <polygon id="_184139096" class="fil1" points="27.3295,76.3831 57.1724,99.1571 60.0142,99.9012 60.0142,99.9047 60.0213,99.9024 60.0272,99.9047 60.0272,99.9012 62.8689,99.1571 92.7118,76.3831 92.0327,75.8398 60.0272,75.8398 60.0142,75.8398 28.0087,75.8398 "/>
+   <g>
+    <circle id="_184136744" class="fil2" cx="60.0604" cy="96.0597" r="5.21543"/>
+    <circle id="_184137248" class="fil2" cx="60.2128" cy="64.4626" r="4.21543"/>
+    <circle id="_184137368" class="fil2" cx="60.2128" cy="33.0144" r="4.21543"/>
+    <circle id="_184136504" class="fil2" cx="60.2128" cy="43.4971" r="4.21543"/>
+    <circle id="_184137056" class="fil2" cx="60.2128" cy="53.9799" r="4.21543"/>
+    <circle id="_184147376" class="fil3" cx="70.6342" cy="64.4626" r="4.21543"/>
+    <circle id="_184138664" class="fil2" cx="70.6342" cy="33.0144" r="4.21543"/>
+    <circle id="_184138808" class="fil2" cx="70.6342" cy="43.4971" r="4.21543"/>
+    <circle id="_184139048" class="fil2" cx="70.6342" cy="53.9799" r="4.21543"/>
+    <circle id="_184138208" class="fil3" cx="49.5072" cy="64.4626" r="4.21543"/>
+    <circle id="_184137968" class="fil2" cx="49.5072" cy="33.0144" r="4.21543"/>
+    <circle id="_184136888" class="fil2" cx="49.5072" cy="43.4971" r="4.21543"/>
+    <circle id="_184147520" class="fil2" cx="49.5072" cy="53.9799" r="4.21543"/>
+    <path id="_184139312" class="fil2" d="M27.3354 19.7244l65.3291 0 0 56.7094 -23.6622 0 -9.03425 9.17362 -8.93268 -9.17362 -23.7 0 0 -56.7094zm4.04409 3.52087l57.2409 0 0 49.6866 -57.2409 0 0 -49.6866z"/>
+   </g>
+  </g>
+ </g>
+</svg>

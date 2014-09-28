@@ -1,10 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="120px" height="120px" viewBox="0 0 120 120" enable-background="new 0 0 120 120" xml:space="preserve">
-<g>
-	<path fill="#B0B0AF" d="M120,108c0,6.6-5.4,12-12,12H12c-6.6,0-12-5.4-12-12V12C0,5.4,5.4,0,12,0h96c6.6,0,12,5.4,12,12V108z"/>
-</g>
-
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="120px" height="120px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 120 120"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil3 {fill:#396D80}
+    .fil2 {fill:#438CA2}
+    .fil1 {fill:#459BB5}
+    .fil0 {fill:#99CCFF}
+    .fil4 {fill:#FFF}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_183773960">
+   <path id="_183779072" class="fil0" d="M10.6594 0.0011811l98.6835 0c5.86181,0 10.6583,4.79646 10.6583,10.6583l0 98.6835c0,5.86181 -4.79646,10.6583 -10.6583,10.6583l-98.6835 0c-5.86181,0 -10.6583,-4.79646 -10.6583,-10.6583l0 -98.6835c0,-5.86181 4.79646,-10.6583 10.6583,-10.6583z"/>
+   
+ 
+   <path id="_183779984" class="fil4" d="M92.3953 60.0012l0.186614 32.322 -32.674 0.165354c-17.9386,0 -32.4874,-14.5488 -32.4874,-32.4874 0,-17.9386 14.5488,-32.4874 32.4874,-32.4874 17.9398,0 32.4874,14.5488 32.4874,32.4874zm-32.5146 -10.9299c-6.01299,0 -10.8909,4.87677 -10.8909,10.8909 0,6.01299 4.87795,10.8909 10.8909,10.8909 6.01417,0 10.8921,-4.87795 10.8921,-10.8909 0,-6.01417 -4.87795,-10.8909 -10.8921,-10.8909zm0 -5.86299c-9.25039,0 -16.7528,7.50236 -16.7528,16.7539 0,9.25039 7.50236,16.7528 16.7528,16.7528 9.25157,0 16.7539,-7.50236 16.7539,-16.7528 0,-9.25157 -7.50236,-16.7539 -16.7539,-16.7539zm0 -6.35079c-12.7571,0 -23.1035,10.3465 -23.1035,23.1047 0,12.7571 10.3465,23.1035 23.1035,23.1035 12.7583,0 23.1047,-10.3465 23.1047,-23.1035 0,-12.7583 -10.3465,-23.1047 -23.1047,-23.1047zm28.2 23.0622l0.069685 27.952 -28.2425 0.218504c-15.5563,0 -28.1717,-12.6142 -28.1717,-28.1717 0,-15.5563 12.6154,-28.1717 28.1717,-28.1717 15.5563,0 28.1728,12.6154 28.1728,28.1717l0 0.0011811 0 0z"/>
+  </g>
+ </g>
 </svg>
